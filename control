@@ -1,0 +1,9 @@
+Package: dev.erenthetux.clearsb
+Name: ClearSpringBoard
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This tweak hide label & page dots and make transparent dock!
+Maintainer: Eren Kaplan
+Author: Eren Kaplan
+Section: Tweaks
